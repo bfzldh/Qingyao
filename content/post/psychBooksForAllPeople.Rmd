@@ -1,7 +1,7 @@
 ---
 title: "推荐给所有人的心理学书籍"
 author: "Qingyao Zhang"
-date: "2021-05-23"
+date: "2021-08-01"
 output: html_document
 series: ["Academy","Life"]
 categories: ["Book"]
@@ -41,6 +41,9 @@ Duckworth, A. (2016). *Grit: The power of passion and perseverance*. Scribner.
 
 **相近主题**：情绪应对，情绪管理
 
+你是否思虑过重以至于没有活在当下？你是否在与负面情绪的肉搏中屡战屡败精疲力尽？下面这本书介绍的接纳承诺疗法对此有帮助。
+
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2011). *Acceptance and commitment therapy: The process and practice of mindful change*. Guilford Press.
 
 ### 主题：自我调节 (Self regulation)
 
